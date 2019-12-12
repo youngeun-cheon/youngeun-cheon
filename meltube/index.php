@@ -35,7 +35,7 @@
 	    h1 {
 	           	color: green;
 		text-shadow : 3px 3px 3px red;
-		font-family:HY견고딕;
+		font-family:견고딕;
 	        }
 	</style>
 	<style>
