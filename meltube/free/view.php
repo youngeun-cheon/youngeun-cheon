@@ -64,7 +64,7 @@
 	{
 		if (!document.ripple_form.ripple_content.value)
 		{
-			alert("내용을 입력하세요!");    
+			alert("내용을 입력하세요");    
 			document.ripple_form.ripple_content.focus();
 			return;
 		}
