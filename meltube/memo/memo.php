@@ -91,7 +91,7 @@
 		<div id="memo_content"><?= $memo_content ?>
 		</div>
 		<div id="ripple"> 
-			<div id="ripple1">덧글</div>
+			<div id="ripple1">글</div>
 			<div id="ripple2">
 <?
 	    $sql = "select * from memo_ripple where parent='$memo_num'";
