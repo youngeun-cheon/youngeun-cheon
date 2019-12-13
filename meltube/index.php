@@ -73,8 +73,7 @@
             var idx = dept[0].options.selectedIndex;
             if(idx>0){ //"부서별 홈페이지"(맨첫번째 항목)를 클릭했을 때는 반응하지 않음.
                 //새창에서 열기
-                window.open(dept[0].options[idx].value);
-                //기존창에서 열기
+                window.open(dept[0].options[idx].value); //기존창에서 열기
                 //location = dept[0].options[idx].value;
             }
         }
