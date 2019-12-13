@@ -138,12 +138,12 @@
 		<div id="form_join">
 			<div id="join1">
 			<ul>
-			<li>* 아이디</li>
-			<li>* 비밀번호</li>
-			<li>* 비밀번호 확인</li>
-			<li>* 이름</li>
-			<li>* 닉네임</li>
-			<li>* 휴대폰</li>
+			<li>* 아이디 *</li>
+			<li>* 비밀번호 *</li>
+			<li>* 비밀번호 확인 *</li>
+			<li>* 이름 *</li>
+			<li>* 닉네임 *</li>
+			<li>* 휴대폰 *</li>
 			<li>&nbsp;&nbsp;&nbsp;이메일</li>
 			</ul>
 			</div>
