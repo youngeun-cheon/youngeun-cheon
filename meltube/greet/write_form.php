@@ -48,11 +48,11 @@
 				<div class="col3"><input type="checkbox" name="html_ok" value="y"> HTML 쓰기</div>
 			</div>
 			<div class="write_line"></div>
-			<div id="write_row2"><div class="col1"> 제목   </div>
+			<div id="write_row2"><div class="col1"> 제목  </div>
 			                     <div class="col2"><input type="text" name="subject"></div>
 			</div>
 			<div class="write_line"></div>
-			<div id="write_row3"><div class="col1"> 내용   </div>
+			<div id="write_row3"><div class="col1"> 내용  </div>
 			                     <div class="col2"><textarea rows="15" cols="79" name="content"></textarea></div>
 			</div>
 			<div class="write_line"></div>
