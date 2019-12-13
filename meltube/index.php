@@ -95,8 +95,8 @@
      <option value='#20대 여성'>20대여성</option>
      <option value='#30대 남성'>30대남성</option>
      <option value='#30대 여성'>30대여성</option>
-     <option value='#40대~ 남성'>40대~남성</option>
-     <option value='#40대~ 여성'>40대~여성</option>
+     <option value='#40대~ 남성'>40대 이상 남성</option>
+     <option value='#40대~ 여성'>40대 이상 여성</option>
     </select>
     <input type="submit" class="button" value="go" name="go"/>
     </fieldset>
