@@ -31,7 +31,7 @@
 			background-color: yellow;
 			left: 100px; top: 100px;
 		}
-</style>
+</style> //box 3개가 겹치는 형태의 광고 디자인 및 삽입
 <style>
 	    h1 {
 	           	color: green;
@@ -82,7 +82,7 @@
 </center>
 <center>
 <body>
-<form name="selform" onsubmit = "selform_onsubmit();return false;">
+<form name="selform" onsubmit = "selform_onsubmit();return false;"> //selform_onsubmit()실행 태그선택후 확인누를 시 해당하는 사이트로 직접 연결 
    <fieldset style="width:300px;height:50px;">
     <legend>성별,연령대를 선택해주세요</legend>
     <label for="dept" style="display:none;">성별,연령대를 선택해주세요</label>
