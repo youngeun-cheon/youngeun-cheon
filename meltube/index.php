@@ -25,11 +25,11 @@
 		}
 		.box:nth-child(2) {
 			background-color: green;
-			left: 50px; top: 50px;
+			left: 60px; top: 60px;
 		}
 		.box:nth-child(3) {
-			background-color: green;
-			left: 90px; top: 90px;
+			background-color: yellow;
+			left: 100px; top: 100px;
 		}
 </style>
 <style>
