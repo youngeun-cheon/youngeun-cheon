@@ -75,11 +75,11 @@ TD.Center {
 	HEIGHT: 20px
 }
 .menu {
-	FONT: 9pt/140% "굴림"; COLOR: #555555
+	FONT: 9pt/140% "돋움"; COLOR: #555555
 }
 .menu A {
-	FONT: 9pt/140% "굴림"; COLOR: #555555; TEXT-DECORATION: none
+	FONT: 9pt/140% "돋움"; COLOR: #555555; TEXT-DECORATION: none
 }
 .menu A:hover {
-	FONT: bold 9pt/140% "굴림"; COLOR: #003399; TEXT-DECORATION: underline
+	FONT: bold 9pt/140% ""; COLOR: #003399; TEXT-DECORATION: underline
 }
