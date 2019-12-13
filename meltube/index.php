@@ -105,7 +105,7 @@
 <br/>
 <br/>
 <center><body1>
-	<h3 style="font-size:30px; font-family:휴먼굵은샘체;">♨HOT 이슈되는영상♨ HOT</h3>
+	<h3 style="font-size:30px; font-family:휴먼굵은샘체;">♨HOT 이슈되는영상♨</h3>
 	<div>
 	<div class="box"><a href="https://www.youtube.com/watch?v=pAnK1y7qjuE"><img src="https://i.ytimg.com/vi/pAnK1y7qjuE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCui4_5n5WIoKBp6B15UYjayJgn8Q" width="100" height="100"/></a></div>
 	<div class="box"><a href="https://www.youtube.com/watch?v=p5VoKYWISL0"><img src="https://i.ytimg.com/vi/p5VoKYWISL0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAslzsxS62YlB0204d6WR4VT8XSg" width="100" height="100"/></a></div>
