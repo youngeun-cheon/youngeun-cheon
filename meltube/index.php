@@ -906,6 +906,8 @@ COLORS IN BLACK
 록/메탈
 <b>FLAC</b>
 Flac 16bit
+<b>기획사</b>
+스페이스보헤미안
 </small></p>
 </th>
 </tr>
@@ -922,6 +924,8 @@ Flac 16bit
 발라드,인디음악
 <b>FLAC</b>
 Flac 16/24bit
+<b>기획사</b>
+리메즈
 </small></p>
 </th>
 </tr>
