@@ -44,7 +44,7 @@
 	</style>
 </head>
 <body>
-<div id="wrap">
+<div id="wrap"> 
 	<div id="header">
     <? include "./lib/top_login1.php"; ?>
 	</div>  <!-- end of header -->
@@ -129,7 +129,7 @@
 	<a href="https://www.melon.com/album/detail.htm?albumId=32544"><img src="https://musicmeta-phinf.pstatic.net/album/000/001/1145.jpg?type=r360Fll&v=20190812223102" width="150" height="150"/></a>
 	<a href="https://www.melon.com/album/detail.htm?albumId=2393"><img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F002%2F2661.jpg%3Ftype%3Dr204Fll%26v%3D20190813083737&type=o220_220" width="150" height="150"/></a>
 	</div>
-	<div style="width:50px; height:50px; border:1px solid white; float:right;">
+	<div style="width:40px; height:40px; border:1px solid white; float:right;"> //광고형식의 사이트이동
 	<a href="https://front.wemakeprice.com/main"><img src="https://www.bing.com/th?id=OIP.b05EyxIRPsohBcK0X3HeHQAAAA&pid=Api&rs=1" width="100" height="100"/></a>
 	<a href="https://www.tmon.co.kr/"><img src="http://imgnews.naver.net/image/5703/2018/12/17/0000000471_001_20181217223757601.jpg" width="100" height="100"/></a>
 	<a href="https://tv.naver.com/"><img src="http://www.bloter.net/wp-content/uploads/2017/01/naverTV-1-1.png" width="100" height="100"/></a>
