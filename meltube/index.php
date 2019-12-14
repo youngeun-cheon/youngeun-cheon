@@ -449,6 +449,8 @@ THINKING Part.1
 2019.09.30
 <b>장르</b>
 랩/힙합
+<b>기획사</b>
+KOZ 엔터테인먼트
 <b>FLAC</b>
 Flac 16bit/24bit
 </center>
