@@ -1722,6 +1722,8 @@ Flac 16bit
 2019.08.23
 <b>장르</b>
 록/메탈
+<b>기획사</b>
+Stone Music Entertainment, 삼화네트웍스
 <b>FLAC</b>
 Flac 16bit
 </small></p>
