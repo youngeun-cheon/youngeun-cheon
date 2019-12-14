@@ -1473,6 +1473,8 @@ Flac 16/24bit
 2019.5.17
 <b>장르</b>
 발라드
+<b>기획사</b>
+ Stone Music Entertainment
 <b>FLAC</b>
 Flac 16bit
 </small></p>
