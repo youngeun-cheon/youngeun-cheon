@@ -1437,6 +1437,8 @@ Flac 16bit/24bit
 2019.07.03
 <b>장르</b>
 발라드
+<b>기획사</b>
+ 메이저나인
 <b>FLAC</b>
 Flac 16/24bit
 </small></p>
