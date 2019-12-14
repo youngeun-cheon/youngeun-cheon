@@ -635,6 +635,8 @@ Dream of a dream(Prod. By 윤상)
 댄스
 <b>FLAC</b>
 Flac 16bit
+<b>기획사</b>
+엔씨소프트
 </small></p>
 </th>
 </tr>
