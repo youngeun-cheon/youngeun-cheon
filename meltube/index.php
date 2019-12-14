@@ -51,7 +51,7 @@
 	<div id="menu">
 	<? include "./lib/top_menu1.php"; ?>
 	</div>  <!-- end of menu --> 
-  <div id="content">
+  <div id="content"> //검색창 연결 링크 (유튜브,멜론)
 		<center>
 		<br/>
 <p style="color:red;"><b>youtube </b></style></p><form name="searchForm" action="http://www.youtube.com/results/" method="get" >
