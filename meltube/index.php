@@ -652,7 +652,7 @@ Feel Special
 <b>장르</b>
 댄스
 <b>기획사</b>
-JYP	
+(주)JYP	
 <b>FLAC</b>
 Flac 16/24bit
 </small></p>
@@ -669,6 +669,8 @@ Flac 16/24bit
 2019.09.25
 <b>장르</b>
 발라드
+<b>기획사</b>
+(주)YG엔터테인먼트
 <b>FLAC</b>
 Flac 16bit
 </small></p>
