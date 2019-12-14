@@ -687,6 +687,8 @@ Two Five
 2019.09.10
 <b>장르</b>
 록/포크(국내)
+<b>기획사</b>
+(주)쇼파르뮤직 
 <b>FLAC</b>
 Flac 16bit/24bit
 </small></p>
