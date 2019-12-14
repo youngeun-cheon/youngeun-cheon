@@ -1163,6 +1163,8 @@ You are my sunshine in my heart
 2019.10.10
 <b>장르</b>
 발라드
+<b>기획사</b>
+Stone Music Entertainment, MMO Entertainment
 <b>FLAC</b>
 Flac 16bit
 </small></p>
@@ -1181,6 +1183,7 @@ CODE#03 SET ME FREE
 댄스
 <b>FLAC</b>
 Flac 16/24bit
+
 </small></p>
 </th>
 </tr>
@@ -1197,6 +1200,7 @@ Flac 16/24bit
 포크.블루스,국내드라마
 <b>FLAC</b>
 Flac 16bit/24bit
+
 </center>
 </small></p>
 </th>
