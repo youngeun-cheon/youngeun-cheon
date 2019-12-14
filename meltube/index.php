@@ -39,8 +39,8 @@
 		font-family:견고딕;
 	        }
 	</style>
-	<style>
-		h2:active { color: red; }
+	<style> 
+		h2:active { color: red; } //멜론(벤치마킹)하트누르면좋아요반영(검은색->빨간색)색변함
 	</style>
 </head>
 <body>
@@ -104,7 +104,7 @@
 </center>
 <br/>
 <br/>
-<center><body1>
+<center><body1> //main 광고
 	<h3 style="font-size:30px; font-family:휴먼굵은샘체;">♨HOT 이슈되는영상♨</h3>
 	<div>
 	<div class="box"><a href="https://www.youtube.com/watch?v=pAnK1y7qjuE"><img src="https://i.ytimg.com/vi/pAnK1y7qjuE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCui4_5n5WIoKBp6B15UYjayJgn8Q" width="100" height="100"/></a></div>
