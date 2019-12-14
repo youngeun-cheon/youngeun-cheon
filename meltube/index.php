@@ -944,6 +944,8 @@ Originals Cypher
 2019.10.10
 <b>장르</b>
 랩/힙합
+<b>기획사</b>
+Sony Music
 <b>FLAC</b>
 Flac 16/24bit
 </small></p>
