@@ -1181,9 +1181,10 @@ CODE#03 SET ME FREE
 2019.10.10
 <b>장르</b>
 댄스
+<b>기획사</b>
+폴라리스 엔터테인먼트
 <b>FLAC</b>
 Flac 16/24bit
-
 </small></p>
 </th>
 </tr>
