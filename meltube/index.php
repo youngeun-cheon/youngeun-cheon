@@ -651,6 +651,8 @@ Feel Special
 2019.09.23
 <b>장르</b>
 댄스
+<b>기획사</b>
+JYP	
 <b>FLAC</b>
 Flac 16/24bit
 </small></p>
