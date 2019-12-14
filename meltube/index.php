@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="css/common.css">
 <style>
 		body{
-			background-color: #D1E7E8;
+			background-color: #D1E7E8; //배경색 지정
 		}
 		body1>div{
 		width:200px; height:200px;
